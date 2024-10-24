@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backPrimary">#000000</color>
+    <color name="text_title">#cbcbcb</color>
+    <color name="back_inputlayout">#272727</color>
+    <color name="border_forcus">#0886f9</color>
+    <color name="hint">#929292</color>
+
+
+
+</resources>

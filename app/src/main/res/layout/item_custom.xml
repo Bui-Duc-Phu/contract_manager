@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_marginTop="7sp"
+
+             android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:id="@+id/textViewName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/magin_8"
+            android:text="Bui Duc Phu"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="@dimen/titel_text"
+            />
+
+        <TextView
+            android:id="@+id/textViewEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/magin_8"
+            android:text="dsdsd"
+            android:textStyle="bold"
+            android:textSize="@dimen/primary_text"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textViewPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:text="sdsds"
+            android:textColor="@color/black"
+            android:textSize="@dimen/primary_text"
+            android:textStyle="bold"
+           />
+    </LinearLayout>
+
+
+</RelativeLayout>

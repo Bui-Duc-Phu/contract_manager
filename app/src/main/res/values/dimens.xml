@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text size -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="primary_text">16sp</dimen>
+    <dimen name="titel_text">18sp</dimen>
+
+
+    <!-- Padding -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+
+    <dimen name="magin_8">4dp</dimen>
+    <dimen name="radius_inputlayout_15">20dp</dimen>
+    <dimen name="boxStrokeWidth">2dp</dimen>
+
+
+
+
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contract_app</string>
+    <string name="hint_name_input">Name</string>
+    <string name="hint">Name</string>
+</resources>
